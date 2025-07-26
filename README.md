@@ -1,73 +1,87 @@
-# 📱 Mobile Phone Comparison Analytics
+# 📱 Mobile Phone Comparison Analytics Project
 
-This project uses **Excel** to analyze and compare mobile phone specifications across different brands. The goal is to extract meaningful insights from a small dataset of 10 phone models and help consumers understand tech trends based on price, RAM, camera, battery, and user ratings.
-
----
-
-## 🔍 Objectives
-- Compare mobile phones based on key specs
-- Understand relationships like **RAM vs Price**, **Battery vs Rating**
-- Visualize data using Excel charts
-- Identify the most value-for-money smartphones
+A data analytics project using Excel to compare mobile phones based on features like RAM, price, camera quality, battery capacity, and brand.
 
 ---
 
-## 📊 Dataset Features
+## 📌 Objective
 
-| Feature         | Description                       |
-|----------------|-----------------------------------|
-| Brand          | Company name (e.g., Samsung, Mi)  |
-| Model          | Phone model name                  |
-| Price (INR)    | Retail price                      |
-| RAM (GB)       | Memory                            |
-| Storage (GB)   | Internal storage                  |
-| Camera (MP)    | Rear camera quality               |
-| Battery (mAh)  | Battery capacity                  |
-| OS             | Operating system (Android/iOS)    |
-| Rating (/5)    | User rating from reviews          |
+To analyze trends and patterns in mobile phone specifications and pricing using Excel functions, pivot tables, and charts.
 
 ---
 
-## 🔧 Tools Used
+## 📊 Dataset
 
-- **Microsoft Excel**: Data entry, cleaning, filtering
-- **Excel Charts**: Bar chart, scatter plot, pie chart
-- **Basic functions**: Conditional formatting, filters, sorting
+The dataset includes 10 mobile phone models with the following features:
 
----
-
-## 📈 Key Analyses
-
-- RAM vs Price
-- Battery vs User Rating
-- Brand-wise average pricing
-- Camera MP comparison
-- Highest rated phone vs most expensive
+- Brand  
+- Model  
+- Price  
+- RAM  
+- Storage  
+- Camera  
+- Battery  
 
 ---
 
-## 📌 Insights
+## 🧪 Key Analysis Performed
 
-- Some low-cost phones offer better specs than premium ones.
-- Higher battery capacity often correlates with better user ratings.
-- Mi and Realme offer better RAM/price ratio than other brands.
-- Apple and Samsung have the highest pricing but not always the best ratings.
-
----
-
-## 🗂 Files Included
-
-- `Mobile_Phone_Comparison_Project.xlsx`: Excel file with all data + charts
-- `Mobile_Analysis_Report.pdf`: PDF report with summary and insights *(coming soon)*
+- 📈 RAM vs Price trend analysis  
+- 🏷️ Brand-wise average pricing  
+- 📊 Feature correlation (RAM vs Battery, Camera vs Price)  
+- 🛍️ Best value-for-money phones  
+- 📉 Visualizations using Pivot Charts  
 
 ---
 
-## ✅ Status
+## 🛠 Tools Used
 
-✔️ Project Completed  
-📤 Files will be added soon  
-📄 Report download link will be shared
+- Microsoft Excel (Formulas, Pivot Tables, Charts)  
+- GitHub for version control and project hosting  
 
 ---
 
-> 📌 Feel free to clone, analyze or build your own version of this comparison project.
+## 📁 Files Included
+
+- `Mobile_Phone_Comparison_Project.xlsx` – Excel sheet with raw data, pivot analysis, and charts  
+- `Mobile_Phone_Comparison_Report.pdf` – A PDF summary report of all insights and visuals  
+- `README.md` – This documentation file  
+
+---
+
+## 🧠 Insights
+
+- Phones with 8GB+ RAM are mostly above ₹25,000  
+- Some brands offer more battery at lower prices  
+- Higher camera megapixels don’t always mean higher prices  
+- Mid-range phones can offer the best value-for-money features  
+
+---
+
+## 🔍 How to Use
+
+1. Clone/download this repo  
+2. Open the Excel file in MS Excel  
+3. Use the sheets:
+   - **Raw Data**
+   - **Pivot Tables**
+   - **Charts**
+4. Explore filters and graphs to discover insights yourself  
+
+---
+
+## 📌 Report
+
+📄 You can view the detailed PDF report here once uploaded:  
+[Mobile_Phone_Comparison_Report.pdf](Mobile_Phone_Comparison_Report.pdf)
+
+---
+
+## 📜 License
+
+This project is for **educational purposes** only.  
+You are free to fork, modify, and reuse it for your learning or portfolio.
+
+---
+
+**Made with ❤️ by Satwik**
